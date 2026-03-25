@@ -3,7 +3,6 @@ Data analysis of IPL of Last 3 seasons
 ## TABLE OF CONTENTS
 - [Project overview](#project-overview)
 - [Live Dashboard](#live-dashboard)
-- [Data Sources](#data-sources)
 - [Methodology](#methodology)
 - [Key Insights](#key-insights)
 ## Project Overview
@@ -20,10 +19,6 @@ The Indian Premier League (IPL) has emerged as one of the most popular cricket t
 4.To visualize key findings through interactive dashboards for easy interpretation and decision-making.
 ### live dashboard
 [Live link](https://app.powerbi.com/view?r=eyJrIjoiNjU1MjYzYWQtNDgzMS00YTA4LWJmMzMtYTNkYjgzMzdjNzAwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-### Data Sources:
-https://codebasics.io/challenge/codebasics-resume-project-challenge (challenge10)
-![Screenshot 2024-04-19 210652](https://github.com/Github-sanket07sett/AFC-Asian-Cup-2023-QATAR-/assets/137095374/092ed782-d244-441d-b253-12fa51cdcfc8)
-
 
 ### Methodology:
 
